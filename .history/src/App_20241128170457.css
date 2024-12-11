@@ -546,7 +546,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-size: cover;
   background-repeat: no-repeat;
 }
-/*.newsletter-bx {
+.newsletter-bx {
   background: #FFFFFF;
   border-radius: 55px;
   color: #121212;
@@ -605,7 +605,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-weight: 500;
   letter-spacing: 0.5px;
   border-radius: 18px;
-}*/
+}
 .footer img {
   width: 26%;
 }
