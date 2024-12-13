@@ -9,7 +9,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **Skills:** Highlight of my programming languages, frameworks, and tools.
 - **Projects:** A showcase of my key projects with descriptions and links.
 - **Contact Form:** A fully functional contact form using Nodemailer to handle email submissions.
-##Deployed Link- https://personal-portfolio-mocha-alpha.vercel.app/
+## Deployed Link- https://personal-portfolio-mocha-alpha.vercel.app/
 
 ## Technologies Used
 
