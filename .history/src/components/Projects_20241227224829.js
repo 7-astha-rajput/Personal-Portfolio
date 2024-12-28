@@ -23,31 +23,26 @@ export const Projects = () => {
       title: "Money Lending",
       description: "Backend Development",
       imgUrl: projImg2,
-      url: "https://github.com/7-astha-rajput/Backend-Money-Lending",
     },
     {
       title: "Doctor Appointment Booking",
       description: "Web Development",
       imgUrl: projImg3,
-      url: "https://github.com/7-astha-rajput/Web-Based-Appointed-Booking-Site",
     },
     {
       title: "Text Editor",
       description: "Web Development",
       imgUrl: projImg4,
-      url: "https://txteditr.netlify.app/",
     },
     {
       title: "Budget Tracker",
       description: "Web Development",
       imgUrl: projImg5,
-      url: "https://github.com/7-astha-rajput/Budget-Tracker",
     },
     {
       title: "Room Booking",
       description: "SQL",
       imgUrl: projImg6,
-      url: "https://github.com/7-astha-rajput/Celebal-Internship/tree/main/Hotel%20Management",
     },
   ];
 
